@@ -1,0 +1,11 @@
+{
+  "name": "decipher",
+  "version": "1.0.0",
+  "description": "Node.js AES decipher example for NodeMCU ESP8266",
+  "main": "decipher.js",
+  "author": "David Maixner",
+  "license": "ISC",
+  "dependencies": {
+    "node-forge": "^0.7.1"
+  }
+}
