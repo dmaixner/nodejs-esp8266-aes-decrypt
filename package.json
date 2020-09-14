@@ -6,6 +6,6 @@
   "author": "David Maixner",
   "license": "ISC",
   "dependencies": {
-    "node-forge": "^0.7.1"
+    "node-forge": "^0.10.0"
   }
 }
